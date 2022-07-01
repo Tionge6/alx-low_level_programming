@@ -20,7 +20,7 @@ putchar((d % 10) + '0');
 if (d != 89)
 {
 putchar(',');
-putchar('');
+putchar(' ');
 }
 }
 putchar('\n');
