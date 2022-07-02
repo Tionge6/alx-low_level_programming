@@ -7,6 +7,8 @@
 int main(void)
 {
 int num1, num2;
+const  char* stderr;
+stderr = '\0';
 fprintf( stderr, "[Anything]");
 for(num1 = 0; num1 <=98; num1++)
 {
