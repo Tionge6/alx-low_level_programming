@@ -1,10 +1,8 @@
 #include "main.h"
-
+#include <stdlib.h>
 /**
-* *_strcat - check the code for ALX school students.
-*@dest: destination
-*@src: source
-* Return: pointer to the destination
+* reset_to_98 -> a function to update the reference of a pointer
+* @n: pointer to n be updated
 */
 void reset_to_98(int *n)
 {
