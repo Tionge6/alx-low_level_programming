@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 /**
 * main - check the code
@@ -7,7 +6,9 @@
 
 void swap_int(int *a, int *b)
 {
-*a = -4096;
-*b = 1024;
+int c;
 
+c = *a;
+*a = *b;
+*b = c;
 }
