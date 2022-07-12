@@ -1,15 +1,17 @@
 #include <stdio.h>
-#incvlude <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
 
 /**
-* Main - check code
-*
-* Return: Always 0.
-*/
-int main(void)
-{
+ * main - Generates random valid passwords for the
+ * program 101-crackme.
+ *
+ * Return: Always 0.
+ */
 
+int main(void)
+
+{
 
 	char password[84];
 
