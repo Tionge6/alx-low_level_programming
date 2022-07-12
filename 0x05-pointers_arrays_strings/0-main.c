@@ -22,7 +22,6 @@ int main(void)
 
 	printf("%d\n", n);
 
-	reset_to_98(&n);
 
 	printf("%d\n", n);
 
