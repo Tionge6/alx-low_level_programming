@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "holberton.h";
 
 /**
 * *_strcat - check the code for ALX school students.
