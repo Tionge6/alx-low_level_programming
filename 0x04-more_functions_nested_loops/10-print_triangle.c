@@ -8,7 +8,6 @@
  */
 
 void print_triangle(int size)
-
 {
 
 	int sp, ro, tr;
